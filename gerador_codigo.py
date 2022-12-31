@@ -1,8 +1,8 @@
 import regex as re
 import os
 
-uf = 'Ceará'
-uf_sigla = 'ce'
+uf = 'Brasil'
+uf_sigla = 'br'
 
 df1 = 'df1' + uf_sigla
 df2 = 'df2' + uf_sigla
